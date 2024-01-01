@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+My name is Exa_qvq, you can call me Exa. cinyan10 is my ​specific ID.
+Non-CS major student of CUIT.
+- 🔭 I’m currently working on **study**
+- 🌱 I’m currently learning Java SE
+- 👯 I’m looking to collaborate on CS2 KZ stuffs
+- 🤔 I’m looking for help with **everything**
+- 💬 Ask me about ... idk
+- 📫 How to reach me: Discord:cinyan10
+- 😄 Pronouns: Exa/he/him
+- ⚡ Fun fact: click [here](https://cinyan10.githun.io/) to have a better understanding of me (if you'd like)
+  
 <!--
 **Cinyan10/cinyan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
