@@ -6,7 +6,7 @@ Non-CS major student of CUIT.
 - 👯 I’m looking to collaborate on CS2 KZ Server stuffs
 - 🤔 I’m looking for help with **everything**
 - 💬 Ask me about ... idk
-- 📫 How to reach me: Discord:cinyan10
+- 📫 How to reach me: Discord: cinyan10
 - 😄 Pronouns: Exa/he/him
 - ⚡ Fun fact: click [here](https://cinyan10.githun.io/) to have a better understanding of me (if you'd like)
   
