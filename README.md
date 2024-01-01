@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Exa_qvq, you can call me Exa. cinyan10 is my ​specific ID.
+My name is **Exa_qvq**, you can call me **Exa**. **cinyan10** is my ​specific ID.
 Non-CS major student of CUIT.
 - 🔭 I’m currently working on **study**
 - 🌱 I’m currently learning Java SE
