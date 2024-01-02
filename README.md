@@ -8,7 +8,7 @@ Non-CS major student of CUIT.
 - 💬 Ask me about ... idk
 - 📫 How to reach me: Discord: cinyan10
 - 😄 Pronouns: Exa/he/him
-- ⚡ Fun fact: click [here](https://cinyan10.github.io/) to have a better understanding of me (if you'd like)
+- ⚡ Fun fact: click [here]() to have a better understanding of me (if you'd like)
   
 <!--
 **Cinyan10/cinyan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
