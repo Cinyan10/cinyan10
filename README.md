@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is **Exa_qvq**, you can call me **Exa**. aka **Cinyan10**.
+
 Non-CS major student of CUIT.
 - 🔭 I’m currently working on **study**
 - 🌱 I’m currently learning Python
