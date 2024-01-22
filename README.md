@@ -1,10 +1,10 @@
 ### Hi there 👋
-My name is **Exa_qvq**, you can call me **Exa**. aka **Cinyan10**.
+My name is **Exa_qvq**, you can call me **Exa**. 
+**cinyan10** is my specific id
 
 Non-CS major student of CUIT.
 - 🔭 I’m currently working on **study**
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on CS2 KZ Server stuffs
 - 🤔 I’m looking for help with **everything**
 - 💬 Ask me about ... idk
 - 📫 How to reach me: Discord: cinyan10
